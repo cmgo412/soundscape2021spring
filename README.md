@@ -9,7 +9,7 @@ The idea for my soundscape is to try to emulate the feeling of camping in the wo
 
 ### ASSETS.md
 
-*This section is currently under construction.* Please refer to [ASSETS.md](https://github.com/cmgo412/soundscape2021spring/blob/master/ASSETS.md) for the complete list of sound assets used and appropriate attributions for this project.
+*This section is currently under construction.* Please refer to [ASSETS.md](https://github.com/cmgo412/soundscape2021spring/blob/master/credits/ASSETS.md) for the complete list of sound assets used and appropriate attributions for this project.
 
 ### Preview — 2/4/21
 
