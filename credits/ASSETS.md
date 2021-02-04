@@ -16,6 +16,7 @@
 | Crunching of dead leaves/twigs| Download from database of CC licensed audio snippets | "[footsteps - leaves 01.wav](https://freesound.org/people/Anthousai/sounds/398776/)" by Anthousai | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Mosquito buzzing | Download from database of CC licensed audio snippets | "[Flying Mosquito.wav](https://freesound.org/people/Zywx/sounds/188708/) by Zywx" | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Hum of conversation | Download from database of CC licensed audio snippets | | |
+| Background ambiance | Download from database of Cc licensed audio snippets | "[Night Crickets Back Porch.aiff](https://freesound.org/people/hdfreema/sounds/333221/)" by hdfreema | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 
 
 ### Created
@@ -24,7 +25,7 @@ All assets below are recorded myself. Permission from those included are listed 
 
 | Needs  | Solutions | Credits |
 | ---------|:---------:|:----:|
-| Zipper on tent | Audio of coat zipper | |
-| Shuffling in tent | Recording of me getting into sleeping bag| |
+| Zipper on tent | Audio of coat zipper | Self-recorded |
+| Shuffling in tent | Recording of me getting into sleeping bag| Self-recorded |
 | Music | Recording of guitar melody and singing | Sophie Beacom |
-| Narrator dialogue | Short audio clip of my voice | |
+| Narrator dialogue | Short audio clip of my voice | Self-recorded |
