@@ -27,5 +27,5 @@ All assets below are recorded myself. Permission from those included are listed 
 | ---------|:---------:|:----:|
 | Zipper on tent | Audio of coat zipper | Self-recorded |
 | Shuffling in tent | Recording of me getting into sleeping bag| Self-recorded |
-| Music | Recording of guitar melody and singing | Sophie Beacom |
+| Music | Recording of guitar melody and singing | [Sophie Beacom](https://github.com/cmgo412/soundscape2021spring/blob/master/credits/sophie_permission.m4a) |
 | Narrator dialogue | Short audio clip of my voice | Self-recorded |
