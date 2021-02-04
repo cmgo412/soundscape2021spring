@@ -21,7 +21,7 @@
 
 ### Created
 
-<!--All assets below are recorded myself. Permission from those included are listed below in the appropriate category. -->
+All assets below are recorded myself. Permission from those included are listed below in the appropriate category.
 
 | Needs  | Solutions | Credits |
 | ---------|:---------:|:----:|
