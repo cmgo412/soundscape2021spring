@@ -1,5 +1,3 @@
 # Soundscape Final Log
 
-Quick notes of changes while I work on my final submission
-- added low pass filter on guitar, steam, campfire, and crickets to make environment sound more muffled
-- added sharper fade when narrator zips up tent
+For my final submission, I decided to tweak the levels and transitions of my audio tracks, making sure that I rounded out any remaining rough edges to my soundscape. I mainly did this by taking into account all the feedback that I received from my peers during class. Specifically, one of the suggestions that I got was to create a more intentional ending when the narrator decides to leave the campsite and sleep in their tent. To more clearly signify this, I decided to add a low pass filter on all the background tracks (guitar melody, stream, campfire, crickets) and faded them over a shorter period of time  to give the impression that the narrator is further inside the tent and that the background noises are muffled by fabric. Another suggestion that I received was that the static of the radio was distracting and felt out of place. To fix this, I simply decreased the gain on the audio clip so that it's not as loud and doesn't detract from the soundscape.

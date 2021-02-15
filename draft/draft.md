@@ -1,6 +1,6 @@
 # Soundscape Draft Log
 
-Quick notes of changes while I work on my draft
+I attempted to complete the bulk of my soundscape project with this draft. For a quick summary, here are a couple quick notes of changes I made while working:
 - Added right/left and left/right pan with mosquito sound effect
 - Added clap sound after mosquito effect
 - Added sound clip of sleeping bag and removed background noise

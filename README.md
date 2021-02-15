@@ -22,8 +22,8 @@ More details about my soundscape preview can be found at [preview.md](https://gi
 
 ### Draft — 2/8/21
 
-*This section will be updated soon to include an overview of my soundscape preview as per the details described in [assignment.md](https://github.com/cmgo412/soundscape2021spring/blob/master/assignment.md).*
+I attempted to complete the bulk of my soundscape project with this draft. More details about specific changes and additions can be found at [draft.md](https://github.com/cmgo412/soundscape2021spring/blob/master/draft/draft.md).
 
 ### Final Submission — 2/14/21
 
-Insert some stuff here
+For my final submission, I decided to tweak the levels and transitions of my audio tracks, making sure that I rounded out any remaining rough edges to my soundscape. I mainly did this by taking into account all the feedback that I received from my peers during class. Please refer to [final.md](https://github.com/cmgo412/soundscape2021spring/blob/master/final/final.md) for more information.
