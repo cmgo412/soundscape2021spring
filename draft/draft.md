@@ -19,8 +19,4 @@ Quick notes of changes while I work on my draft
 - Updated README.md
 - Updated ASSETS.md
 
-Things to add into final draft
-- Record talking ambience with friends
-- maybe add more wildlife sounds?
-
 *My soundscape draft files (.aup, _data folder) can be found in the [soundscape](https://github.com/cmgo412/soundscape2021spring/tree/master/soundscape) directory.*

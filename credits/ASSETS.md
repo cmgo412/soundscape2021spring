@@ -29,4 +29,3 @@ All assets below are recorded myself. Permission from those included are listed 
 | Music | Recording of guitar melody and singing | "Take Me Home, Country Roads" by John Denver (Cover by [Sophie Beacom](https://github.com/cmgo412/soundscape2021spring/blob/master/credits/sophie_permission.m4a)) |
 | Narrator dialogue | Short audio clip of my voice | Self-recorded |
 | Radio dialogue | Recording of fake weather report | [Luna Malloy](https://github.com/cmgo412/soundscape2021spring/blob/master/credits/luna_permission.m4a) |
-| Hum of conversation | Download from database of CC licensed audio snippets | | |

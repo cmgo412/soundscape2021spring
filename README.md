@@ -12,7 +12,7 @@ The idea for my soundscape is to try to emulate the feeling of camping in the wo
 
 ### ASSETS.md
 
-*This section is currently under construction.* Please refer to [ASSETS.md](https://github.com/cmgo412/soundscape2021spring/blob/master/credits/ASSETS.md) for the complete list of sound assets used and appropriate attributions for this project.
+Please refer to [ASSETS.md](https://github.com/cmgo412/soundscape2021spring/blob/master/credits/ASSETS.md) for the complete list of sound assets used and appropriate attributions for this project.
 
 ### Preview — 2/4/21
 
@@ -23,3 +23,7 @@ More details about my soundscape preview can be found at [preview.md](https://gi
 ### Draft — 2/8/21
 
 *This section will be updated soon to include an overview of my soundscape preview as per the details described in [assignment.md](https://github.com/cmgo412/soundscape2021spring/blob/master/assignment.md).*
+
+### Final Submission — 2/14/21
+
+Insert some stuff here
